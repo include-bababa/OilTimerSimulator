@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25359917312f08f46a1af64a1f5e2a8d, type: 3}
+  m_Name: ThemeInfoCafe
+  m_EditorClassIdentifier: 
+  assetName: cafe
+  displayName:
+    m_TableReference:
+      m_TableCollectionName: GUID:25a847ddc6f371f4c9be771e066134c7
+    m_TableEntryReference:
+      m_KeyId: 127690892988416
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  backgroundTexture:
+    m_AssetGUID: 686515be945097148b320ca8b7839586
+    m_SubObjectName: cafe
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_EditorAssetChanged: 0
+  thumbnailTexture:
+    m_AssetGUID: fa5c90ce0fb6a0241b7c7abb5651f7a8
+    m_SubObjectName: cafe_thumb
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_EditorAssetChanged: 0
+  useLighting: 0
+  references:
+    version: 2
+    RefIds: []

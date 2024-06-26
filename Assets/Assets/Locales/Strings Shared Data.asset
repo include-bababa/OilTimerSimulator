@@ -1,0 +1,562 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Strings Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Strings
+  m_TableCollectionNameGuidString: 25a847ddc6f371f4c9be771e066134c7
+  m_Entries:
+  - m_Id: 2456491741184
+    m_Key: SampleScene/UI/Canvas/SettingsPanel/SettingsPanel/H1-PanelSettings/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112478655696896
+    m_Key: SampleScene/UI/Canvas/SettingsPanel/SettingsPanel/ChangeButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112579440627712
+    m_Key: SampleScene/UI/Canvas/SettingsPanel/SettingsPanel/EditModeButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113036980473856
+    m_Key: SampleScene/UI/Canvas/SettingsPanel/SettingsPanel/ViewModeButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113495879274496
+    m_Key: SampleScene/UI/Canvas/SettingsPanel/SettingsPanel/H1-ApplicationSettings/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113546877816832
+    m_Key: SampleScene/UI/Canvas/SettingsPanel/SettingsPanel/SleepSettings/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121701703700480
+    m_Key: PropScaleSmallDisplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121814849245184
+    m_Key: PropScaleMediumDisplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121904473133056
+    m_Key: PropScaleLargeDisplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121959099748352
+    m_Key: PropScaleSmallShort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122006893842432
+    m_Key: PropScaleMediumShort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122104352690176
+    m_Key: PropScaleLargeShort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123860490997760
+    m_Key: PropRotationClockwiseSlowDisplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124374750416896
+    m_Key: PropRotationClockwiseFastDisplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124472179904512
+    m_Key: PropRotationCounterclockwiseSlowDisplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124605705572352
+    m_Key: PropRotationCounterclockwiseFastDisplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124876410146816
+    m_Key: PropRotationClockwiseSlowShort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125016801890304
+    m_Key: PropRotationClockwiseFastShort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125077296336896
+    m_Key: PropRotationCounterclockwiseSlowShort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125161568292864
+    m_Key: PropRotationCounterclockwiseFastShort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127085881413632
+    m_Key: PropNamePin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127129489592320
+    m_Key: PropNamePlatform
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127244795203584
+    m_Key: PropNamePoweredGear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127323362906112
+    m_Key: PropNamePipe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4545054191472640
+    m_Key: PropNameSeesaw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8703463660802048
+    m_Key: PropNameCube
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127602632249344
+    m_Key: ThemeNameBeach
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127690892988416
+    m_Key: ThemeNameCafe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127832111009792
+    m_Key: ThemeNameCityLight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127886850871296
+    m_Key: ThemeNameSilk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127946472902656
+    m_Key: ThemeNameStars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128011597860864
+    m_Key: ThemeNameSunflower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130037589299200
+    m_Key: SampleScene/UI/Canvas/EditorMiniPanel/EditorMiniPanel/Tabs/Tab-Props/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130085563748352
+    m_Key: SampleScene/UI/Canvas/EditorMiniPanel/EditorMiniPanel/Tabs/Tab-Settings/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130135224307712
+    m_Key: SampleScene/UI/Canvas/EditorMiniPanel/EditorMiniPanel/Tabs/Tab-Save/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130279470616576
+    m_Key: SampleScene/UI/Canvas/EditorMiniPanel/EditorMiniPanel/SaveContent/NameButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130746598641664
+    m_Key: SampleScene/UI/Canvas/EditorMiniPanel/EditorMiniPanel/PropsContent/TypeButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130804534562816
+    m_Key: SampleScene/UI/Canvas/EditorMiniPanel/EditorMiniPanel/PropsContent/SizeButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130850445414400
+    m_Key: SampleScene/UI/Canvas/EditorMiniPanel/EditorMiniPanel/PropsContent/RotationButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130922809741312
+    m_Key: SampleScene/UI/Canvas/EditorMiniPanel/EditorMiniPanel/PropsContent/ColorButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130969387487232
+    m_Key: SampleScene/UI/Canvas/EditorMiniPanel/EditorMiniPanel/PropsContent/ColorButton/Empty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131102674079744
+    m_Key: SampleScene/UI/Canvas/EditorMiniPanel/EditorMiniPanel/SettingsContent/ThemeButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131175415894016
+    m_Key: SampleScene/UI/Canvas/EditorMiniPanel/EditorMiniPanel/SettingsContent/OilColors/Oil/NameText
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131256948969472
+    m_Key: SampleScene/UI/Canvas/EditorMiniPanel/EditorMiniPanel/SettingsContent/OilColors/Buttons/Buttons/ColorButtonLeft/Empty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131291505840128
+    m_Key: SampleScene/UI/Canvas/EditorMiniPanel/EditorMiniPanel/SettingsContent/OilColors/Buttons/Buttons/ColorButtonRight/Empty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131353640259584
+    m_Key: SampleScene/UI/Canvas/EditorMiniPanel/EditorMiniPanel/SettingsContent/OilIntervals/Oil/NameText
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 143514819186688
+    m_Key: SampleScene/UI/Canvas/EditorMiniPanel/EditorMiniPanel/SaveContent/LastSaved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146961949872128
+    m_Key: SampleScene/UI/Canvas/ChagePropPanel/ChangePropPanel/H1-PanelSettings/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147000252256256
+    m_Key: SampleScene/UI/Canvas/ChagePropPanel/ChangePropPanel/TypeButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147034544885760
+    m_Key: SampleScene/UI/Canvas/ChagePropPanel/ChangePropPanel/SizeButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147064974561280
+    m_Key: SampleScene/UI/Canvas/ChagePropPanel/ChangePropPanel/RotationButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147089783869440
+    m_Key: SampleScene/UI/Canvas/ChagePropPanel/ChangePropPanel/ColorButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147159874883584
+    m_Key: SampleScene/UI/Canvas/ThemeSelectorPanel/ThemeSelectorPanel/H1-Title/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147231823974400
+    m_Key: SampleScene/UI/Canvas/TypeSelectorPanel/TypeSelectorPanel/H1-Title/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147310651723776
+    m_Key: SampleScene/UI/Canvas/SizeSelectorPanel/SizeSelectorPanel/H1-Title/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147399281561600
+    m_Key: SampleScene/UI/Canvas/RotationSelectorPanel/RotationSelectorPanel/H1-Title/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147452947681280
+    m_Key: SampleScene/UI/Canvas/ColorSelectorPanel/ColorSelectorPanel/H1-Title/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147529997045760
+    m_Key: SampleScene/UI/Canvas/IntervalSelectorPanel/IntervalSelectorPanel/H1-Title/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147627720134656
+    m_Key: SampleScene/UI/Canvas/LevelSelectorPanel/LevelSelectorPanel/H1-Title/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147711589437440
+    m_Key: SampleScene/UI/Canvas/LevelSelectorPanel/LevelSelectorPanel/Tabs/Tab-Builtin/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147790396215296
+    m_Key: SampleScene/UI/Canvas/LevelSelectorPanel/LevelSelectorPanel/Tabs/Tab-User/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148186577588224
+    m_Key: SampleScene/UI/Canvas/EnterNamePanel/EnterNamePanel/H1-Title/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148558855622656
+    m_Key: SampleScene/UI/Canvas/EnterNamePanel/EnterNamePanel/Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149200676409344
+    m_Key: SampleScene/UI/Canvas/EnterNamePanel/EnterNamePanel/InputField (TMP)/Text
+      Area/Placeholder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149292074487808
+    m_Key: SampleScene/UI/Canvas/EnterNamePanel/EnterNamePanel/Buttons/SaveButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149326228705280
+    m_Key: SampleScene/UI/Canvas/EnterNamePanel/EnterNamePanel/Buttons/CancelButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149471708139520
+    m_Key: SampleScene/UI/Canvas/MessagePanel/MessagePanel/Buttons/CancelButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149491152932864
+    m_Key: SampleScene/UI/Canvas/MessagePanel/MessagePanel/Buttons/OKButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157841202696192
+    m_Key: ColorNameNone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157889579798528
+    m_Key: ColorNameWhite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157931174711296
+    m_Key: ColorNameSilver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157973658816512
+    m_Key: ColorNameGray
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158026486075392
+    m_Key: ColorNameBlack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158060808065024
+    m_Key: ColorNameRed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158097470476288
+    m_Key: ColorNameBrown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158159009304576
+    m_Key: ColorNameYellow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158214709661696
+    m_Key: ColorNameOlive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158248788381696
+    m_Key: ColorNameLime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158345580335104
+    m_Key: ColorNameGreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158442397454336
+    m_Key: ColorNameCyan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158504766754816
+    m_Key: ColorNameTeal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158628721020928
+    m_Key: ColorNameBlue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158697465663488
+    m_Key: ColorNameNavy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158743934357504
+    m_Key: ColorNameMagenta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158798883934208
+    m_Key: ColorNamePurple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 336591907278848
+    m_Key: UnitSecondShort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4808306913792000
+    m_Key: UnitMinuteShort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4808654709673984
+    m_Key: UnitHourShort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1583195968589824
+    m_Key: SampleScene/UI/Canvas/EditorMiniPanel/EditorMiniPanel/SaveContent/SaveAndLoad/SaveButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1583243330670592
+    m_Key: SampleScene/UI/Canvas/EditorMiniPanel/EditorMiniPanel/SaveContent/SaveAndLoad/LoadButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1788858799837184
+    m_Key: SampleScene/UI/Canvas/SettingsPanel/SettingsPanel/RotationSettings/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4813394684235776
+    m_Key: SampleScene/UI/Canvas/Root/SettingsPanel/SettingsPanel/Scroll View/Viewport/Content/TimerButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4848062238380032
+    m_Key: TimerNone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4848104483409920
+    m_Key: TimerStopwatch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4866367313498112
+    m_Key: SampleScene/UI/Canvas/Root/TimerSelectorPanel/TimerSelectorPanel/H1-Title/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4884301163352064
+    m_Key: SampleScene/UI/Canvas/Root/LevelSelectorPanel/LevelSelectorPanel/UserContent/ChangeButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5538517892550656
+    m_Key: DialogMessageSaveConfirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5539342568214528
+    m_Key: DialogMessageSaveCompleted
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6676233942290432
+    m_Key: DialogTitleDeleteLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6676313738924032
+    m_Key: DialogMessageDeleteLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8188213979074560
+    m_Key: DialogTitleConfirmQuit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8187981346197504
+    m_Key: DialogMessageConfirmQuit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8706866457694208
+    m_Key: DialogMessageConfirmSaveBeforeUnload
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5540096204951552
+    m_Key: HourglassDefaultName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5870137216421888
+    m_Key: SampleScene/UI/Canvas/Root/SettingsPanel/SettingsPanel/Scroll View/Viewport/Content/LabelSettings/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5897945242226688
+    m_Key: SampleScene/UI/Canvas/Root/SettingsToggle/Label/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5898052889038848
+    m_Key: SampleScene/UI/Canvas/Root/ResetButton/Label/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5898098799890432
+    m_Key: SampleScene/UI/Canvas/Root/PlayToggle/Label/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5898342128242688
+    m_Key: SampleScene/UI/Canvas/Root/UndoButton/Label/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5898411489447936
+    m_Key: SampleScene/UI/Canvas/Root/PropIndicator/Label/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8173735694651392
+    m_Key: TitleScreen/UI/Canvas/InfoPanel/InfoPanel/H1-ApplicationInfo/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8180153885741056
+    m_Key: SampleScene/UI/Canvas/Root/ConfirmSavePanel/ConfirmSavePanel/Buttons/Cancel/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8187158604107776
+    m_Key: SampleScene/UI/Canvas/Root/ConfirmSavePanel/ConfirmSavePanel/Buttons/SaveButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8187214287687680
+    m_Key: SampleScene/UI/Canvas/Root/ConfirmSavePanel/ConfirmSavePanel/Buttons/DiscardButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8706746450268160
+    m_Key: SampleScene/UI/Canvas/Root/ConfirmSavePanel/ConfirmSavePanel/H1-Title/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8709687139717120
+    m_Key: PropIndicatorEditSelected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10282973141225472
+    m_Key: SampleScene/UI/Canvas/Root/RequestReviewPanel/ReqeuestReviewPanel/H1-Title/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10283240058343424
+    m_Key: SampleScene/UI/Canvas/Root/RequestReviewPanel/ReqeuestReviewPanel/Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10283986535403520
+    m_Key: SampleScene/UI/Canvas/Root/RequestReviewPanel/ReqeuestReviewPanel/Buttons/CancelButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10284027174014976
+    m_Key: SampleScene/UI/Canvas/Root/RequestReviewPanel/ReqeuestReviewPanel/Buttons/ReviewButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60690683363676160
+    m_Key: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60704192612880384
+    m_Key: SampleScene/UI/Canvas/Root/RotationToggle/Label/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2702737616301981720
+  references:
+    version: 2
+    RefIds:
+    - rid: 2702737616301981720
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1656231099139

@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7aa674446bf7caf4fac22240aa392281
+  m_SerializeEntries:
+  - m_GUID: 564819edb3b588746b17eff5876fdd31
+    m_Address: Assets/Assets/Textures/Background/beach.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 045fe83f18035da449dd7e3e70b8baf2
+    m_Address: Assets/Assets/ScriptableObjects/ThemeInfoBeach.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Themes
+  - m_GUID: dad1b943e13e7d94c943aa7c6087f334
+    m_Address: Assets/Assets/ScriptableObjects/ThemeInfoStars.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Themes
+  - m_GUID: ff0cddd4870ed6c4a8cccc7e901c4fae
+    m_Address: Assets/Assets/Textures/Background/stars.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bf6b18ef4374c5b45bc22761dafde2fe
+    m_Address: Assets/Assets/Textures/Background/silk.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3db74bc97ca8486409fb7e8629e8e79a
+    m_Address: Assets/Assets/ScriptableObjects/ThemeInfoSilk.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Themes
+  - m_GUID: 1af58a7c42b51864db2cf8165f9c0e54
+    m_Address: Assets/Assets/Textures/Background/city_light.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97d307c07cf227d41afeeb3bfce1273e
+    m_Address: Assets/Assets/ScriptableObjects/ThemeInfoCityLight.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Themes
+  - m_GUID: 686515be945097148b320ca8b7839586
+    m_Address: Assets/Assets/Textures/Background/cafe.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 70047b7e285d65d49a372e11c788049d
+    m_Address: Assets/Assets/ScriptableObjects/ThemeInfoCafe.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Themes
+  - m_GUID: 8605d70e64ecc484e84d2bcc967147a4
+    m_Address: Assets/Assets/ScriptableObjects/ScaleSetInfo.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 7affc291cdcde324780662fef56c3ea0
+    m_Address: Assets/Assets/ScriptableObjects/PropInfoPlatform.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Props
+  - m_GUID: 1a6463a01ea954843a72f0e0aee3806a
+    m_Address: Assets/Assets/ScriptableObjects/PropInfoPipe.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Props
+  - m_GUID: 19409e3449c1d6949ab0443c31affd17
+    m_Address: Assets/Assets/ScriptableObjects/PropInfoPoweredGear.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Props
+  - m_GUID: c7f420070bb9856498d7906c4920c19a
+    m_Address: Assets/Assets/ScriptableObjects/PropInfoPin.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Props
+  - m_GUID: fe5ab39e4cbbf714681555fe2d52ef80
+    m_Address: Assets/Assets/Textures/Background/sunflower.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 142978a654a31954c9994b02c6660b23
+    m_Address: Assets/Assets/ScriptableObjects/ThemeInfoSunflower.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Themes
+  - m_GUID: 85758816d8ddf014c9702972a9cdfd65
+    m_Address: Assets/Assets/ScriptableObjects/RotationSetInfo.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: c31e94ff38a014f40bee59ab1302254f
+    m_Address: Assets/Assets/ScriptableObjects/PropInfoSeesaw.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Props
+  - m_GUID: 02526c517106cd9439c57eb7c3a9d612
+    m_Address: Assets/Assets/Levels/Beach.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Levels
+  - m_GUID: 8d560d0f2523b614a9ecad3365694eff
+    m_Address: Assets/Assets/Levels/CityLight.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Levels
+  - m_GUID: c1e05441287a0bc478d52353f9fb5e1a
+    m_Address: Assets/Assets/Levels/Stars.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Levels
+  - m_GUID: 3eb5be86df226644dbcbc0c4470661e1
+    m_Address: Assets/Assets/Textures/Background/beach_thumb.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fa5c90ce0fb6a0241b7c7abb5651f7a8
+    m_Address: Assets/Assets/Textures/Background/cafe_thumb.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f3f2c3780c885a4598eb669db905ef3
+    m_Address: Assets/Assets/Textures/Background/city_light_thumb.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 906a6e42593197d488f04017d89ce61f
+    m_Address: Assets/Assets/Textures/Background/silk_thumb.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3560d5276853efc45a2d744730959128
+    m_Address: Assets/Assets/Textures/Background/stars_thumb.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a885f86403c30fe499df6c8584abe0d1
+    m_Address: Assets/Assets/Textures/Background/sunflower_thumb.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: df30d0b4cae5f0e418f4cfe46eaadc4d
+    m_Address: Assets/Assets/Levels/Cafe.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Levels
+  - m_GUID: ff0a065755eac29479ea01162a0699d9
+    m_Address: Assets/Assets/Levels/Sunflower.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Levels
+  - m_GUID: 9230d3380c6837842a5b6aa460e35757
+    m_Address: Assets/Assets/ScriptableObjects/PropInfoCube.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Props
+  - m_GUID: 7ff554015bf00e14ca4824c2c8c8e724
+    m_Address: Assets/Assets/Levels/Silk.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Levels
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9cc79ac518e68214dbff1f9eec997655, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 79a92154e46dc5f4cbd262443abade80, type: 2}
+    - {fileID: 11400000, guid: b5eff02ec77567448b1c6086cfa2cb00, type: 2}

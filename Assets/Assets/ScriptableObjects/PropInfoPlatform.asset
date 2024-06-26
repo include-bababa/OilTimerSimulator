@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a040ffe0a36da8c4d8953ad574704375, type: 3}
+  m_Name: PropInfoPlatform
+  m_EditorClassIdentifier: 
+  propType: 0
+  displayName:
+    m_TableReference:
+      m_TableCollectionName: GUID:25a847ddc6f371f4c9be771e066134c7
+    m_TableEntryReference:
+      m_KeyId: 127129489592320
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  prefab: {fileID: 9027999748025522476, guid: 5c915abaadbbf034c91aef3f716f3ba8, type: 3}
+  references:
+    version: 2
+    RefIds: []

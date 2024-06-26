@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f3988a7ba265724095fd6c310bafbd4, type: 3}
+  m_Name: RotationSetInfo
+  m_EditorClassIdentifier: 
+  rotationData:
+  - displayName:
+      m_TableReference:
+        m_TableCollectionName: GUID:25a847ddc6f371f4c9be771e066134c7
+      m_TableEntryReference:
+        m_KeyId: 123860490997760
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    shortName:
+      m_TableReference:
+        m_TableCollectionName: GUID:25a847ddc6f371f4c9be771e066134c7
+      m_TableEntryReference:
+        m_KeyId: 124876410146816
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - displayName:
+      m_TableReference:
+        m_TableCollectionName: GUID:25a847ddc6f371f4c9be771e066134c7
+      m_TableEntryReference:
+        m_KeyId: 124374750416896
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    shortName:
+      m_TableReference:
+        m_TableCollectionName: GUID:25a847ddc6f371f4c9be771e066134c7
+      m_TableEntryReference:
+        m_KeyId: 125016801890304
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - displayName:
+      m_TableReference:
+        m_TableCollectionName: GUID:25a847ddc6f371f4c9be771e066134c7
+      m_TableEntryReference:
+        m_KeyId: 124472179904512
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    shortName:
+      m_TableReference:
+        m_TableCollectionName: GUID:25a847ddc6f371f4c9be771e066134c7
+      m_TableEntryReference:
+        m_KeyId: 125077296336896
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - displayName:
+      m_TableReference:
+        m_TableCollectionName: GUID:25a847ddc6f371f4c9be771e066134c7
+      m_TableEntryReference:
+        m_KeyId: 124605705572352
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    shortName:
+      m_TableReference:
+        m_TableCollectionName: GUID:25a847ddc6f371f4c9be771e066134c7
+      m_TableEntryReference:
+        m_KeyId: 125161568292864
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []
